@@ -1,6 +1,6 @@
 lemon
-Water
 a new bardak 
+a new Sugar coflict
+ feature
 Nane
-bardak
 Sürahi
